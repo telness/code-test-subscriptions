@@ -14,7 +14,7 @@ The API should support:
 * fetching information about a subscription, which should show:
     * all of the subscription's data,
     * as well as which operator owns the subscription (using the API provided
-      by [`PTS`](https://etjanster.pts.se/Documentation/API/NumberServiceWCF.aspx);
+      by [`PTS`](https://catalog.pts.se/);
 * changing the activation date of a pending subscription;
 * pausing and reactivating the subscription;
 * cancelling the subscription.
